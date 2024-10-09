@@ -1,4 +1,4 @@
-# 💫 About Me: <img width="40%" align="right" src="https://i.postimg.cc/Gp32t5gt/ingridmaga.png" />
+# 💫 About Me: <img width="10%" align="right" src="https://i.postimg.cc/Gp32t5gt/ingridmaga.png" />
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento de jogos e interesse em desenvolvimento de software.<br><br>🔭 Atualmente estou trabalhando em desenvolvimento de jogos.<br>🌱 A procura de estágio.<br>💬 Estudante de Análise e Desenvolvimento de Sistemas.<br>⚡ Curiosidade: sou escritora e tenho livros publicados, por isso adoro criar narrativas e exercer minha criatividade.<br><br>Student of Systems Analysis and Development, focused on game development and interested in software development.<br><br>🔭 I’m currently working on game development.  <br>🌱 I’m currently looking for an internship.  <br>💬 I’m currently studying Systems Analysis and Development.  <br>⚡ Fun fact: I’m a writer and have published books, so I love creating narratives and exercising my creativity.<br><br>
 
 
