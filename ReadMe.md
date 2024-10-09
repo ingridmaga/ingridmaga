@@ -8,16 +8,37 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento
  </div>
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) 
+<div style="text-align: center;">
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white" alt="GitLab" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white" alt="WordPress" />
+</div>
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ingridmaga&theme=rose&hide_border=false&include_all_commits=true&count_private=false) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ingridmaga&theme=rose&hide_border=false)
+<div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ingridmaga&theme=rose&hide_border=false&include_all_commits=true&count_private=false" style="max-width: 100%; height: auto;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingridmaga&theme=rose&hide_border=false" style="max-width: 100%; height: auto;" />
+</div>
 
 ### 🔝 Contributed Repo
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ingridmaga&bg_color=fed7ec&color=212121&line=601f3f&point=9e003f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<div style="text-align: center;">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ingridmaga&bg_color=fed7ec&color=212121&line=601f3f&point=9e003f&area=true&hide_border=true" style="max-width: 90%; height: auto;" alt="Ashutosh's github activity graph" />
+    </a>
+</div>
 ---
-[![](https://visitcount.itsvg.in/api?id=ingridmaga&icon=0&color=10)](https://visitcount.itsvg.in)
+<div style="text-align: center;">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=ingridmaga&icon=0&color=10" alt="Visit Count" />
+    </a>
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
