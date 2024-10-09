@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
-# 💫 About Me:
+# 💫 About Me: <img width="20%" align="right" src="https://avatars.githubusercontent.com/u/180484689?v=4" style="border-radius: 50%; border: 2px solid #FF69B4;" />
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento de jogos e interesse em desenvolvimento de software.<br><br>🔭 Atualmente estou trabalhando em desenvolvimento de jogos.<br>🌱 A procura de estágio.<br>💬 Estudante de Análise e Desenvolvimento de Sistemas.<br>⚡ Curiosidade: sou escritora e tenho livros publicados, por isso adoro criar narrativas e exercer minha criatividade.<br><br>Student of Systems Analysis and Development, focused on game development and interested in software development.<br><br>🔭 I’m currently working on game development.  <br>🌱 I’m currently looking for an internship.  <br>💬 I’m currently studying Systems Analysis and Development.  <br>⚡ Fun fact: I’m a writer and have published books, so I love creating narratives and exercising my creativity.<br><br>
 
 
