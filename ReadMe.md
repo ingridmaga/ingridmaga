@@ -1,5 +1,5 @@
-# 💫 About Me: <img width="40%" align="end" src="https://ibb.co/pR6SgYF.webp"/>
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento de jogos e interesse em desenvolvimento de software.<br><br>🔭 Atualmente estou trabalhando em desenvolvimento de jogos.<br>🌱 A procura de estágio.<br>💬 Estudante de Análise e Desenvolvimento de Sistemas.<br>⚡ Curiosidade: sou escritora e tenho livros publicados, por isso adoro criar narrativas e exercer minha criatividade.<br><br>Student of Systems Analysis and Development, focused on game development and interested in software development.<br><br>🔭 I’m currently working on game development.  <br>🌱 I’m currently looking for an internship.  <br>💬 I’m currently studying Systems Analysis and Development.  <br>⚡ Fun fact: I’m a writer and have published books, so I love creating narratives and exercising my creativity.<br><br>
+# 💫 About Me: 
+<img overflow="hidden" width="40%" align="right" radius="50%" src="https://i.ibb.co/wNrpVRq/ingridmagalhaespng.png" alt="ingridmaga">Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento de jogos e interesse em desenvolvimento de software.<br><br>🔭 Atualmente estou trabalhando em desenvolvimento de jogos.<br>🌱 A procura de estágio.<br>💬 Estudante de Análise e Desenvolvimento de Sistemas.<br>⚡ Curiosidade: sou escritora e tenho livros publicados, por isso adoro criar narrativas e exercer minha criatividade.<br><br>Student of Systems Analysis and Development, focused on game development and interested in software development.<br><br>🔭 I’m currently working on game development.  <br>🌱 I’m currently looking for an internship.  <br>💬 I’m currently studying Systems Analysis and Development.  <br>⚡ Fun fact: I’m a writer and have published books, so I love creating narratives and exercising my creativity.<br><br>
 
 
 ## 🌐 Socials:
@@ -23,14 +23,14 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento
 
 # 📊 GitHub Stats:
 <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ingridmaga&theme=rose&hide_border=false&include_all_commits=true&count_private=false" style="max-width: 50%; height: auto;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingridmaga&theme=rose&hide_border=false" style="max-width: 50%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ingridmaga&theme=rose&hide_border=false&include_all_commits=true&count_private=false" style="max-width: 40%; height: auto;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingridmaga&theme=rose&hide_border=false" style="max-width: 40%; height: auto;" />
 </div>
 
 ### 🔝 Contributed Repo
 <div style="text-align: center;">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ingridmaga&bg_color=fed7ec&color=212121&line=601f3f&point=9e003f&area=true&hide_border=true" style="max-width: 80%; height: auto;" alt="Ashutosh's github activity graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ingridmaga&bg_color=fed7ec&color=212121&line=601f3f&point=9e003f&area=true&hide_border=true" style="max-width: 80%; align:center; height: auto;" alt="Ashutosh's github activity graph" />
     </a>
 </div>
 ---
