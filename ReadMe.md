@@ -24,8 +24,8 @@
 # 📊 GitHub Stats:
 <div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=ingridmaga&theme=rose&hide_border=false&include_all_commits=true&count_private=false" style="align: center; 
- width: 45%; height: auto;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingridmaga&theme=rose&hide_border=false" style=" align: center; width: 45%; height: auto;" />
+ width: 49%; height: auto;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingridmaga&theme=rose&hide_border=false" style=" align: center; width: 49%; height: auto;" />
 </div>
 
 ### 🔝 Contributed Repo
